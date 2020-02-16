@@ -1,6 +1,8 @@
 [![Maris Bizarre Game Logo](https://i.imgur.com/w9tdTH8.png "Maris Bizarre Game Logo")](https://i.imgur.com/w9tdTH8.png "Maris Bizarre Game Logo")
 
 # Mari's Bizarre Adventure WEBGL Compilation and Demo.
+From the Love Live Sunshine Anime Universe
+3D Game Adventure
 
 ## Project in progress.
 A small game that tells the curious adventure of Mari Ohara and Kanan Matsuura from the Love Live Sunshine series.
