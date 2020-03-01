@@ -29,6 +29,7 @@ El desarrollo:
 MARI SIDE/HISTORIA DE MARI:
 Todo comienza cuando Mari un día normal recibe una misteriosa carta procedente de Kanan; Kanan Matsuura la mejor amiga de mari, la cual habia fallecido 1 año atrás de una enfermedad muy extraña, muerte la cual afecto mucho a Mari.
 La carta que decía venir de Kanan citaba a Mari a un pueblo donde Kanan solia pasar tiempo con Mari; Mari no dudo en asistir al llamado de la carta, ya  que todo en la carta hacia lucir como si fuera la misma Kanan quien la hubiese escrito, desde  su letra, hasta los echos que citaba, donde solo ellas tenían conocimiento. Mari aún no había superado la muerte de su delfincito.
+
 [![](https://i.imgur.com/TC5Fl3w.gif)](https://i.imgur.com/TC5Fl3w.gif)
  
 Mari acude al siguiente día en su Furgoneta al lugar que la carta citaba con los otros miembros de Aqours, para averiguar de qué va todo esto. 
