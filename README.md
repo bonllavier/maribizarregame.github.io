@@ -20,6 +20,7 @@ A small game that tells the curious adventure of Mari Ohara and Kanan Matsuura f
 - **FANPAGE:** https://www.facebook.com/maribizarregame
 
 **VISIÓN GENERAL (ESPAÑOL / SPANISH)**
+
 Este pequeño proyecto que inicialmente fue pensado como un pequeño corto animado interactivo de 15 minutos, cuenta la aventura donde los plushes de Aqours son los protagonistas, pero como personaje principal el plush de Mari Ohara, y en ciertas ocasiones Kanan Matsuura, los únicos personajes jugables, hasta donde se encuentra el desarrollo ahora.
 La historia no tiene mucha relación con la  serie original, aquí he experimentado con temas mas sobrenaturales, un tanto absurdos, irracionales, que si los ejecuto, junto con la personalidad y trasfondo de cada personaje, dan resultados bastantes graciosos.   
 El juego por ahora es bastante lineal y la jugabilidad bastante  sencilla; controla a Mari en tercera persona, con la cruceta, puedes saltar o mover la vision de la camara la mayoria del tiempo; En ciertas ocasiones habran cinematicas unas interactivas otras no.
