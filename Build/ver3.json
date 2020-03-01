@@ -1,0 +1,15 @@
+{
+"companyName": "javb92",
+"productName": "Mari's Bizarre Adventure BETA",
+"productVersion": "1.0",
+"dataUrl": "ver3.data.unityweb",
+"wasmCodeUrl": "ver3.wasm.code.unityweb",
+"wasmFrameworkUrl": "ver3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a6"
+}
