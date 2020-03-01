@@ -1,5 +1,3 @@
-[![Maris Bizarre Game Logo](https://i.imgur.com/w9tdTH8.png "Maris Bizarre Game Logo")](https://i.imgur.com/w9tdTH8.png "Maris Bizarre Game Logo")
-
 # Mari's Bizarre Adventure WEBGL Compilation and Demo.
 From the Love Live Sunshine Anime Universe
 3D Game Adventure
@@ -34,6 +32,7 @@ La carta que decía venir de Kanan citaba a Mari a un pueblo donde Kanan solia p
  
 Mari acude al siguiente día en su Furgoneta al lugar que la carta citaba con los otros miembros de Aqours, para averiguar de qué va todo esto. 
 Al llegar, Mari se accidenta debido a la poca visibilidad que provocaba la densa niebla del lugar; Hanamaru, Dia y Ruby, salen volando por el parabrisas frontal al momento del accidente, y quedan perdidas por un momento en el bosque de la zona; Mari aprovecha la oportunidad para Iniciar un LIVE  con su equipo de camaras, y Aqours.
+
 [![](https://i.imgur.com/JKDBC2v.gif)](https://i.imgur.com/JKDBC2v.gif)
 [![](https://i.imgur.com/350dskU.gif)](https://i.imgur.com/350dskU.gif)
 [![](https://i.imgur.com/NOhroxL.jpg)](https://i.imgur.com/NOhroxL.jpg)
